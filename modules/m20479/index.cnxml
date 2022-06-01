@@ -1,0 +1,336 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine surface measurements by means of measuring and calculation</title>
+  <metadata>
+  <md:content-id>m20479</md:content-id><md:title>To determine surface measurements by means of measuring and calculation</md:title>
+  <md:abstract/>
+  <md:uuid>302e0647-334f-45c5-bc44-40a0546c0903</md:uuid>
+</metadata>
+
+<content>
+    <section id="id17834014">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id17834014">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17842975">
+      <title/>
+      <para id="para-id17842975">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14093491">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id14093491">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17520933">
+      <title/>
+      <para id="para-id17520933">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16514528">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id16514528">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14121927">
+      <title/>
+      <para id="id8084196">Memorandum</para>
+      <para id="id3377405">1. My method:</para>
+      <para id="id17165133"> Area  = l × b</para>
+      <para id="id11778951">  = 6 cm × 10 cm</para>
+      <para id="id11082508">  = 60 cm<sup>2</sup></para>
+      <para id="id13106970">2. A = ℓ × b</para>
+      <para id="id16195574">Area = length multiplied by width</para>
+      <para id="id18671233">One also uses this formula to determine the area of a rectangle.</para>
+      <para id="id16343395">3. 25 cm<sup>2</sup></para>
+    </section>
+    <section id="id5227578">
+      <title/>
+      <para id="para-id5227578">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6432789">
+      <title>LEANER SECTION</title>
+      <para id="para-id6432789">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4056816">
+      <title>Content</title>
+      <section id="id13736732">
+        <title>Activity: To determine surface measurements by means of measuring and calculation [LO 1.2]</title>
+        <para id="id10355438">You have probably heard people referring to the size of a house as equal to 150 square meters (150 m²). Do you know what is meant when people speak of square metres?</para>
+        <para id="id16554168">Examine the sketch:Each square of the grid represents one square metre. A square metre is a four-sided plane geometric figure having four equal sides of 1 metre in length.When we say that the surface of fig. X is 100 m², we mean that we can fit one hundred single m² into it. One could count the number of squares in the grid, or block, to find out what the size of the surface is, but there is a quicker method for finding the answer.If the length of each side of the larger surface is 10 m, you could calculate the number of blocks (square metres) that can fit into the larger surface area (100) by multiplying the length of the one side (10 m) by the length of the other side (10 m x 10 m = 100 square metres). </para>
+        <table id="id17148897" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+                <entry>1m<sup>2</sup></entry>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1m<sup>2</sup></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id9921284"> Fig. X</para>
+        <para id="id5218899">1. How would you determine the surface area of the following rectangle?</para>
+        <para id="id15948075">(Each block is 1 cm²)</para>
+        <para id="id10505392">The length of this rectangle is 100 mm and the breadth is 60 mm.</para>
+        <table id="id17854672" summary="">
+          <tgroup cols="10">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id14466805">My method: </para>
+        <para id="id14466810">_____________________________________________________________________</para>
+        <para id="id16856328">_____________________________________________________________________</para>
+        <para id="id14624671">_____________________________________________________________________</para>
+        <para id="id15045835">_____________________________________________________________________</para>
+        <para id="id3262529">_____________________________________________________________________</para>
+        <para id="id14257615">_____________________________________________________________________</para>
+        <para id="id13700597">(5)</para>
+        <para id="id13270365">2. What is the meaning of the following formula: A = ℓ b?</para>
+        <para id="id3548233">_____________________________________________________________________</para>
+        <para id="id4241227">_____________________________________________________________________</para>
+        <para id="id13295442">_____________________________________________________________________</para>
+        <para id="id10220091">_____________________________________________________________________</para>
+        <para id="id8439222">_____________________________________________________________________</para>
+        <para id="id11722734">_____________________________________________________________________</para>
+        <para id="id11740391">3. Apply the following formula to determine the surface area of the given triangle:</para>
+        <para id="id15942011">
+          <figure id="id12491739">
+            <media id="id12491739_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-64c8.png" id="id12491739__onlineimage" height="213" width="609"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id13260822"><emphasis effect="italics">b</emphasis> represents the length of the base</para>
+        <para id="id9574194"><emphasis effect="italics">h</emphasis> represents the height of the perpendicular line</para>
+        <list id="id4186319" list-type="bulleted">
+          <item>My answer (estimated):______________________________________________</item>
+          <item>My answer (calculated according to the given formula):____________________</item>
+        </list>
+        <para id="id15950964">(2)</para>
+      </section>
+    </section>
+    <section id="id5452262">
+      <title>Assessment</title>
+      <para id="id4043754"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id15235439"><emphasis>Assessment Standard 1.2:</emphasis> We know this when the learner conducts investigations and collects data: organises and uses apparatus/equipment or sources to gain and record information.</para>
+    </section>
+  </content>
+</document>

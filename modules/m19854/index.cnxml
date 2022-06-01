@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>General Science</title>
+  <metadata>
+  <md:content-id>m19854</md:content-id><md:title>General Science</md:title>
+  <md:abstract>To categorise plants by comparing their characteristics</md:abstract>
+  <md:uuid>3093e082-90a5-4016-a464-17251a5b28f0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id9007942">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id9007942">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9007955">
+      <title>Life and Way of Living</title>
+      <para id="para-id9007955">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9007963">
+      <title/>
+      <para id="para-id9007963">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9007972">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id9007972">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9007986">
+      <title>Memorandum</title>
+      <para id="id9007998">Assignment 1:</para>
+      <para id="id9008002">An instrument that is used to identify a plant or an animal (to determine the name). It provides options according to which the characteristics of the plant or animal can be selected to serve as a guide to the answer (the name of the relevant plant or animal).</para>
+      <section id="id9008013">
+        <title>ACTIVITY 4: To categorise plants by comparing their characteristics [LO 2.2]</title>
+        <para id="para-id9008013">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id9008024">
+        <title>THE DEVELOPMENT OF A KEY WITH WHICH TO CLASSIFY PLANTS</title>
+        <para id="id9008031">You have now been introduced to various characteristics of plants and have learned that we can group the plants in terms of their characteristics. A lot of work has already been done in this regard by biologists and all the plants that are known to people have already been divided into groups. New plants that are discovered can also be placed into a group immediately.</para>
+        <para id="id9008046">The advantage of this is that we can identify any plant that we see, find out its name and discuss it with other people. For example, we can determine whether a plant is indigenous or exotic, whether it is a harmful weed, what we can do with it, etc.</para>
+        <para id="id9008057">To be able to identify a plant we can make use of a <emphasis effect="italics">key</emphasis>. We will now use our knowledge about plant characteristics and plant groups to compile our own key.</para>
+        <para id="id9008077">The easiest way is to pretend that you have seen a particularly interesting plant and want to go to a plant expert (botanist) to ask him/her to which group the plant belongs. Try to think what type of questions you would ask such a person in order to find out the answer.</para>
+        <para id="id9008090">The person most probably will ask questions to which you can answer yes or no. In this manner, it is possible to use each question to eliminate one possibility and thereby to move in the direction of the answer.</para>
+        <para id="id9008100">Let us try. Use the diagrammatic division of plants on the previous page and work through it from top to bottom on the basis of the questions that follow:</para>
+        <para id="id9008109">1. Does the plant form seeds?</para>
+        <list id="id9008115" list-type="bulleted">
+          <item>Yes ____________________________________________________ </item>
+        </list>
+        <para id="id9008126">(Proceed to 2)</para>
+        <list id="id9008131" list-type="bulleted">
+          <item>No ___________________________________________ Algae or mosses</item>
+        </list>
+        <para id="id9008142">(Proceed to 4)</para>
+        <para id="id9008146">2. Does the plant bear flowers?</para>
+        <list id="id9008152" list-type="bulleted">
+          <item>Yes _____________________________________________ (Proceed to 3)</item>
+        </list>
+        <list id="id9008164" list-type="bulleted">
+          <item>No _______________________ Coniferous plants, e.g. fir tree (Proceed to 12)</item>
+        </list>
+        <para id="id9008176">3. Does the plant have vein-like leaves or does it have an adventitious root?</para>
+        <list id="id9008183" list-type="bulleted">
+          <item>Yes ________________ Dicotyledonous plants e.g. proteas (Proceed to 20)</item>
+          <item>No ____________ Monocotyledonous plants, e.g. grasses (Proceed to 40)</item>
+        </list>
+      </section>
+      <section id="id9008205">
+        <title>Assignment 1:</title>
+        <para id="id9008211">Describe in your own words what a key for the identification of plants or animals is and how it is used. </para>
+        <para id="id9008218">__________________________________________________________________</para>
+        <para id="id9008223">__________________________________________________________________</para>
+        <para id="id9008229">__________________________________________________________________</para>
+        <para id="id9008234">__________________________________________________________________</para>
+        <para id="id9008239">__________________________________________________________________</para>
+        <para id="id9008245">__________________________________________________________________</para>
+        <para id="id9008250">__________________________________________________________________</para>
+        <para id="id9008255">__________________________________________________________________</para>
+        <para id="id9008261">__________________________________________________________________</para>
+        <para id="id9008266">__________________________________________________________________</para>
+        <para id="id9008271">__________________________________________________________________</para>
+        <para id="id9008278">__________________________________________________________________</para>
+        <para id="id9008283">___________________________________________________________________</para>
+        <para id="id9008288">__________________________________________________________________</para>
+        <para id="id9008294">__________________________________________________________________</para>
+        <para id="id9008299"/>
+      </section>
+    </section>
+    <section id="id9008307">
+      <title>ASSESSMENT</title>
+      <para id="id9008320"><emphasis>Learning Outcome 2:</emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id9008344"><emphasis>Assessment Standard 2.2:</emphasis> We know this when the learner categorises information (can compare the properties of categories of organisms).</para>
+    </section>
+  </content>
+</document>

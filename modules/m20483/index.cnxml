@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To measure the volume of liquid substances</title>
+  <metadata>
+  <md:content-id>m20483</md:content-id><md:title>To measure the volume of liquid substances</md:title>
+  <md:abstract/>
+  <md:uuid>72646b24-4048-46b2-a541-dad591b3f085</md:uuid>
+</metadata>
+
+<content>
+    <section id="id17899875">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id17899875">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21722477">
+      <title/>
+      <para id="para-id21722477">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15680794">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id15680794">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id24307144">
+      <title/>
+      <para id="para-id24307144">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19821254">
+      <title>EDUCATOR SECTION</title>
+      <para id="id27264444"/>
+    </section>
+    <section id="id28858429">
+      <title>Memorandum</title>
+      <para id="id23139356">1. Answers may vary from one individual to another:</para>
+      <table id="id16678725" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>CONTAINER</entry>
+              <entry>ESTIMATED VOLUME</entry>
+              <entry>CORRECT VOLUME</entry>
+            </row>
+            <row>
+              <entry>Coffee mug</entry>
+              <entry>250 mℓ</entry>
+              <entry>270 mℓ</entry>
+            </row>
+            <row>
+              <entry>Kettle</entry>
+              <entry>1 litre</entry>
+              <entry>1,704 litre</entry>
+            </row>
+            <row>
+              <entry>Tea pot</entry>
+              <entry>400 mℓ</entry>
+              <entry>592 mℓ</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id23850260" list-type="bulleted">
+        <item>Meniscus: This is the curvature of the surface of a liquid due to the liquid's clinging to the sides of the container, to form an upside-down bow.</item>
+      </list>
+      <para id="id20703749">Assignment 7:</para>
+      <para id="id23157735">You sip up the liquid and put your finger on the top end as quickly as possible. Then you lift your finger and let the water drain until the meniscus is level with the line. You use it when you want to measure exactly 25 mℓ or 50 mℓ (or any size of the pipette) to add to something.</para>
+      <list id="id25038397" list-type="bulleted">
+        <item>Burette: The readings will depend on the size of the spoons.</item>
+      </list>
+    </section>
+    <section id="id23571316">
+      <title>LEANER SECTION</title>
+      <para id="para-id23571316">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id25417249">
+      <title>Content</title>
+      <section id="id22786900">
+        <title>Activity: To measure the volume of liquid substances [LO 1.1, LO 2.3]</title>
+        <para id="id29212362">MEASURING WITH THE HELP OF A MEASURING CYLINDER </para>
+        <para id="id14382200">Volume refers to the contents of particular spaces. When you buy a cold drink, you pay for a particular amount of liquid that fills a specific space. </para>
+        <para id="id26117560">This amount of cold drink can also be described as the volume of cold drink.</para>
+        <para id="id26117564">Volumes can be measured with the help of a measuring cylinder, a burette or a pipette.</para>
+        <para id="id26092535"><figure id="id26092539"><media id="id26092539_media" alt=""><image mime-type="image/png" src="../../media/graphics1-724d.png" id="id26092539__onlineimage" height="350" width="275"/></media></figure>Before learning about how to use these measuring instruments, we have to take note of the errors of parallax that might occur and about how to avoid them.</para>
+        <para id="id27202665">By using a measuring cylinder frequently, you will develop your skill in estimating correctly.</para>
+        <para id="id8651237">1. Use a typical measuring cylinder to measure the volume of the following containers (and to see how accurate your estimation is):</para>
+        <table id="id23539167" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Container</entry>
+                <entry>Estimated volume</entry>
+                <entry>Correct volume</entry>
+              </row>
+              <row>
+                <entry>Coffee mug</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+              <row>
+                <entry>Kettle</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+              <row>
+                <entry>Teapot</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id18078676">Two basic rules have to be considered for taking a correct reading from a measuring cylinder:</para>
+        <list id="id27484985" list-type="bulleted">
+          <item>Your eye should be in line with the lower level of the surface of the water (meniscus);</item>
+          <item>The measuring cylinder has to be placed on a level surface and not be tilted, as in the illustrated example!</item>
+        </list>
+        <para id="id3081309">Explain what a meniscus is, using your own words:</para>
+        <para id="id6557856">_____________________________________________________________________</para>
+        <para id="id13412612">_____________________________________________________________________</para>
+        <para id="id27120752">_____________________________________________________________________</para>
+        <para id="id27169571">_____________________________________________________________________</para>
+        <para id="id27250530">_____________________________________________________________________</para>
+        <para id="id17893646">_____________________________________________________________________</para>
+        <para id="id6582002">_____________________________________________________________________</para>
+        <para id="id18031358">_____________________________________________________________________</para>
+        <para id="id19334940">_____________________________________________________________________</para>
+        <para id="id24782533">_____________________________________________________________________</para>
+        <para id="id17566037">MEASURING WITH THE HELP OF A PIPETTE</para>
+        <para id="id17566041">Study the following illustration to get to know a pipette:</para>
+        <figure id="id27335926">
+          <media id="id27335926_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-e7a1.png" id="id27335926__onlineimage" height="377" width="335"/>
+          </media>
+        </figure>
+        <para id="id27698917">ASSIGNMENT 7</para>
+        <list id="id22871707" list-type="bulleted">
+          <item>Give your own explanation of how a pipette is used to obtain a reading:</item>
+        </list>
+        <para id="id25773072">_____________________________________________________________________</para>
+        <para id="id24042257">_____________________________________________________________________</para>
+        <para id="id20136118">_____________________________________________________________________</para>
+        <para id="id6583178">_____________________________________________________________________</para>
+        <para id="id11770849">_____________________________________________________________________</para>
+        <para id="id17891841">_____________________________________________________________________</para>
+        <para id="id6845645">_____________________________________________________________________</para>
+        <para id="id13650376">_____________________________________________________________________</para>
+        <para id="id21720915">_____________________________________________________________________</para>
+        <para id="id19229045">_____________________________________________________________________</para>
+        <para id="id27319114">MEASURING WITH THE HELP OF A BURETTE:</para>
+        <para id="id3132905">A burette is used to measure liquid volume.</para>
+        <para id="id19437790">It is particularly suitable for measuring volumes smaller than 50 cm. </para>
+        <para id="id13644399">Burettes are calibrated (marked in divisions) from top to bottom and usually are more accurate than measuring cylinders.</para>
+        <para id="id13644403">The amount of liquid that is tapped from a burette can simply be read from the burette by checking the level of the meniscus.</para>
+        <para id="id27359596"><figure id="id19487521"><media id="id19487521_media" alt=""><image mime-type="image/png" src="../../media/graphics3-f584.png" id="id19487521__onlineimage" height="475" width="200"/></media></figure>Study the burette attentively to be able to discuss its method of working with a partner:</para>
+        <para id="id21373604">Now use the burette to measure the following volumes:</para>
+        <table id="id21675575" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Object</entry>
+                <entry>Estimated volume</entry>
+                <entry>Correct volume</entry>
+              </row>
+              <row>
+                <entry>Teaspoon</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+              <row>
+                <entry>Soup spoon</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+              <row>
+                <entry>Tablespoon</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+              <row>
+                <entry>Ladle</entry>
+                <entry>__________________</entry>
+                <entry>__________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id3968170">
+      <title>Assessment</title>
+      <para id="id25295967"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id28372738"><emphasis>Assessment Standard 1.1:</emphasis> We know this when the learner plans investigations: plans simple tests and comparisons and considers how to conduct these properly.</para>
+      <para id="id23569276"><emphasis>Learning Outcome 2: </emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id19263688"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner interprets information by identifying key ideas in text, finding patterns in recorded data, and making inferences from information in various forms (e.g. pictures, diagrams, text).</para>
+    </section>
+  </content>
+</document>

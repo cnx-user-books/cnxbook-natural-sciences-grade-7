@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To calculate the density of water</title>
+  <metadata>
+  <md:content-id>m20505</md:content-id><md:title>To calculate the density of water</md:title>
+  <md:abstract/>
+  <md:uuid>23e4ac83-d465-4e7f-875f-3d39eee4bade</md:uuid>
+</metadata>
+
+<content>
+    <section id="id46804392">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id46804392">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46903942">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id46903942">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46692379">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id46692379">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id44709591">
+      <title>Memorandum</title>
+      <para id="id44703399">It is important that learners know that the density of water is 1 g/cm<sup>3</sup>. This means that 1 litre of water weighs 1 kg.</para>
+      <para id="id44684148">The assessment proposed in the module is important, also for the learner's portfolio.</para>
+      <figure id="id45442748">
+        <media id="id45442748_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Grafiek.jpg" id="id45442748__onlineimage" height="231" width="397"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id46115210">
+      <title>LEANER SECTION</title>
+      <para id="para-id46115210">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46983865">
+      <title>Content</title>
+      <para id="para-id46983865">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46631034">
+      <title>Activity: To calculate the density of water [LO 2.3, LO 2.4]</title>
+      <para id="id44844249">TRANSLATION TASK:</para>
+      <para id="id44844252">The readings below were obtained after the mass and volume of water were measured:</para>
+      <table id="id44676029" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Reading 1</entry>
+              <entry>Reading 2</entry>
+              <entry>Reading 3</entry>
+              <entry>Reading 4</entry>
+              <entry>Reading 5</entry>
+            </row>
+            <row>
+              <entry>Mass: 50 gVolume: 50 cm<sup>3</sup></entry>
+              <entry>Mass: 30 gVolume: 30 cm<sup>3</sup></entry>
+              <entry>Mass: 90 g Volume: 90 cm<sup>3</sup></entry>
+              <entry>Mass: 80 gVolume: 80 cm<sup>3</sup></entry>
+              <entry>Mass: 60 gVolume: 60 cm<sup>3</sup></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id44950626">Apply the readings above to a graph to show the different ratios and indicate the density of water. (The density is obtained by dividing the mass by the volume.)</para>
+      <para id="id44958807"/>
+      <para id="id44958811">CRITERIA FOR ASSESSING THE TRANSLATION TASK:</para>
+      <para id="id44782851">1. A suitable heading.</para>
+      <para id="id44782104">2. Both axes correctly marked.</para>
+      <para id="id44674002">3. Appropriate scale for both axes.</para>
+      <para id="id44703001">4. Calculated value of the density is correct.</para>
+      <para id="id44676083">5. All coordinates are drawn correctly.</para>
+      <para id="id44699393">6. Density correctly calculated and shown (Density: 1 g/ cm3).</para>
+      <para id="id44675961">ASSESSMENT ACCORDING TO THE CRITERIA</para>
+      <table id="id44675964" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>LO</entry>
+              <entry>MARKS</entry>
+              <entry>LEVEL</entry>
+              <entry>KEY TO LEVEL</entry>
+            </row>
+            <row>
+              <entry>1 and 2</entry>
+              <entry>1-34%</entry>
+              <entry>1</entry>
+              <entry>Unable to prepare the graph</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>35-39%</entry>
+              <entry>2</entry>
+              <entry>Up to 4 mistakes on the list of criteria</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>40-69%</entry>
+              <entry>3</entry>
+              <entry>2 or 3 mistakes on the list of criteria</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>70-100%</entry>
+              <entry>4</entry>
+              <entry>No or only one mistake</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id46904932" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LO 2.3</entry>
+              <entry>LEVEL</entry>
+            </row>
+            <row>
+              <entry>LO 2.4 </entry>
+              <entry>MARK</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id46888777">COMMENTS:</para>
+      <para id="id43797977">_____________________________________________________________________</para>
+      <para id="id45500316">_____________________________________________________________________</para>
+      <para id="id44903849">_____________________________________________________________________</para>
+      <para id="id45963825">_____________________________________________________________________</para>
+      <para id="id45322997">_____________________________________________________________________</para>
+      <para id="id45566326">_____________________________________________________________________</para>
+      <para id="id43794701">_____________________________________________________________________</para>
+      <para id="id44694287">_____________________________________________________________________</para>
+      <para id="id44955867">_____________________________________________________________________</para>
+      <para id="id46295469">_____________________________________________________________________</para>
+      <para id="id44955632">_____________________________________________________________________</para>
+      <para id="id45973916">_____________________________________________________________________</para>
+      <para id="id45001206">_____________________________________________________________________</para>
+      <para id="id44684703">_____________________________________________________________________</para>
+      <para id="id44949465">_____________________________________________________________________</para>
+      <para id="id44684651">_____________________________________________________________________</para>
+      <para id="id44986766">_____________________________________________________________________</para>
+      <para id="id44906328">_____________________________________________________________________</para>
+      <para id="id46882144">_____________________________________________________________________</para>
+      <para id="id45973629">_____________________________________________________________________</para>
+    </section>
+    <section id="id44791219">
+      <title>Assessment</title>
+      <para id="id44673642"><emphasis>Learning Outcome 2: </emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id44700086"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner interprets information by identifying key ideas in text, finding patterns in recorded data, and making inferences from information in various forms (e.g. pictures, diagrams, text);</para>
+      <para id="id45576214"><emphasis>Assessment Standard 2.4:</emphasis> We know this when the learner application of knowledge: applies knowledge appropriately by connecting the learnt concept to a variation of the known situation.</para>
+    </section>
+  </content>
+</document>

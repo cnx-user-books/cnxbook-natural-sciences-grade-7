@@ -1,0 +1,182 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To measure the volume of bodies consisting of solid matter</title>
+  <metadata>
+  <md:content-id>m20484</md:content-id><md:title>To measure the volume of bodies consisting of solid matter</md:title>
+  <md:abstract/>
+  <md:uuid>d1be2cc9-2ad9-454a-9182-bca443b8610c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3689042">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id3689042">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12499978">
+      <title/>
+      <para id="para-id12499978">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11770802">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id11770802">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14382755">
+      <title/>
+      <para id="para-id14382755">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13927348">
+      <title>EDUCATOR SECTION</title>
+      <para id="id3588140"/>
+    </section>
+    <section id="id13040585">
+      <title>Memorandum</title>
+      <para id="id11316519">3. Volume of stone:</para>
+      <section id="id4072666">
+        <title>SCIENTIFIC FORMULA</title>
+        <list id="id9627404" list-type="bulleted">
+          <item>You cannot use a formula, because the stone does not have the same length or width in all places.</item>
+        </list>
+      </section>
+      <section id="id3661196">
+        <title>WATER DISPLACEMENT</title>
+        <para id="id12987351">Take a first reading of the water in the measuring-cylinder. Then bind thread around the stone and lower it into the water-filled cylinder. Wait for all the air bubbles to escape and take the second reading. Subtract the first reading from the second to determine the volume of the stone.</para>
+      </section>
+    </section>
+    <section id="id4861417">
+      <title>LEANER SECTION</title>
+      <para id="para-id4861417">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13468445">
+      <title>Content</title>
+      <section id="id3822087">
+        <title>Activity: To measure the volume of bodies consisting of solid matter [LO 1.2]</title>
+        <para id="id4102900">The examples that follow will help you to understand how volumes of solid bodies are measured.</para>
+        <para id="id12230808">(We use objects that can be fitted into the measuring cylinder):</para>
+        <figure id="id13524379">
+          <media id="id13524379_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-13ee.png" id="id13524379__onlineimage" height="188" width="178"/>
+          </media>
+        </figure>
+        <para id="id14981152">A cube is a solid that has six square plane faces. The angle between two adjacent angles is a right angle.<emphasis effect="bold">V = ℓ3</emphasis></para>
+        <figure id="id3973913">
+          <media id="id3973913_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-3a39.png" id="id3973913__onlineimage" height="228" width="178"/>
+          </media>
+        </figure>
+        <para id="id12237971">A triangular prism is a five-sided (polygonal) solid with identical triangular end planes and three rectangular plane faces perpendicular to the end planes.</para>
+        <para id="id4199386">V = ½bhH</para>
+        <figure id="id12235490">
+          <media id="id12235490_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-cd2e.png" id="id12235490__onlineimage" height="252" width="177"/>
+          </media>
+        </figure>
+        <para id="id3773415">A rectangular prism is a six-sided (hexagonal) solid that has two identical rectangular end planes and four side planes perpendicular to the end planes.</para>
+        <para id="id3682356">V = ℓbh</para>
+        <para id="id4207282">A cube is a solid that has six square plane faces. The angle between two adjacent angles is a right angle.V = ℓ3 A triangular prism is a five-sided (polygonal) solid with identical triangular end planes and three rectangular plane faces perpendicular to the end planes.V = ½bhH A rectangular prism is a six-sided (hexagonal) solid that has two identical rectangular end planes and four side planes perpendicular to the end planes.V = ℓbh</para>
+        <para id="id4071562">There are two methods for measuring the volume of the above objects:</para>
+        <list id="id12509957" list-type="bulleted">
+          <item>Measuring volume by applying a scientific formula;</item>
+          <item>Calculating volume by means of the technique of water displacement.</item>
+        </list>
+        <para id="id3779511">
+          <emphasis effect="bold">The water displacement technique operates as follows:</emphasis>
+        </para>
+        <para id="id13054527">The measuring cylinder is filled with water to the halfway mark. This halfway mark is your first reading of the water level. Now carefully lower the object of which the volume must be measured into the measuring cylinder.</para>
+        <para id="id3231361">Tap the side of the measuring cylinder to ensure that all air bubbles escape.</para>
+        <para id="id3603036"><figure id="id3603039"><media id="id3603039_media" alt=""><image mime-type="image/png" src="../../media/graphics4-6779.png" id="id3603039__onlineimage" height="357" width="125"/></media></figure>Take a reading of the new water level. Deduct the first reading from the second to determine the volume of the object.</para>
+        <para id="id4206104">1. Now use both these methods to determine the volumes of the given objects:</para>
+        <table id="id4137750" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Object</entry>
+                <entry>Volume as calculated</entry>
+                <entry>Volume: Water displacement</entry>
+              </row>
+              <row>
+                <entry>Metal cube</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Rectangular glass brick</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Prism</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id15781909">6 x ½ = (3)</para>
+        <para id="id15781913">2. Was there any difference between the results obtained by the different methods?</para>
+        <para id="id11300362">_____________________________________________________________________</para>
+        <para id="id4055024">(1)</para>
+        <para id="id4055028">How do you explain the difference, if any, that you observe?</para>
+        <para id="id4194788">_____________________________________________________________________</para>
+        <para id="id4071788">_____________________________________________________________________</para>
+        <para id="id4118126">_____________________________________________________________________</para>
+        <para id="id13926425">_____________________________________________________________________</para>
+        <para id="id12220660">(2)</para>
+        <para id="id10428640">3. Explain how you would determine the volume of a stone such as the one illustrated below?</para>
+        <figure id="id14042151">
+          <media id="id14042151_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-db69.png" id="id14042151__onlineimage" height="171" width="200"/>
+          </media>
+        </figure>
+        <list id="id4161182" list-type="bulleted">
+          <item>When using a scientific formula:</item>
+        </list>
+        <para id="id3720763">_____________________________________________________________________</para>
+        <para id="id13494694">_____________________________________________________________________</para>
+        <para id="id3764348">_____________________________________________________________________</para>
+        <para id="id11294310">_____________________________________________________________________</para>
+        <para id="id5001049">_____________________________________________________________________</para>
+        <para id="id3758539">_____________________________________________________________________</para>
+        <para id="id3609549">(2)</para>
+        <list id="id3609553" list-type="bulleted">
+          <item>When measuring by means of water displacement:</item>
+        </list>
+        <para id="id4016586">_____________________________________________________________________</para>
+        <para id="id13004388">_____________________________________________________________________</para>
+        <para id="id3763830">_____________________________________________________________________</para>
+        <para id="id11016705">_____________________________________________________________________</para>
+        <para id="id3775060">_____________________________________________________________________</para>
+        <para id="id11285908">_____________________________________________________________________</para>
+        <para id="id17069621">(2)</para>
+      </section>
+    </section>
+    <section id="id4061481">
+      <title/>
+      <para id="para-id4061481">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3957681">
+      <title/>
+      <para id="para-id3957681">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11292663">
+      <title>Assessment</title>
+      <para id="id15049486"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id3856742"><emphasis>Assessment Standard 1.2:</emphasis> We know this when the learner conducts investigations and collects data: organises and uses apparatus/equipment or sources to gain and record information.</para>
+    </section>
+  </content>
+</document>

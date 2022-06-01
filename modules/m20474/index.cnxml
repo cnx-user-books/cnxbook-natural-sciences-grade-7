@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To measure the diameter and circumference of a round object</title>
+  <metadata>
+  <md:content-id>m20474</md:content-id><md:title>To measure the diameter and circumference of a round object</md:title>
+  <md:abstract/>
+  <md:uuid>4ad18414-80c6-4b6e-94bb-f1006abaf764</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15809763">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id15809763">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15628147">
+      <title/>
+      <para id="para-id15628147">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13255902">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id13255902">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16353145">
+      <title/>
+      <para id="para-id16353145">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17707411">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id17707411">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14148350">
+      <title/>
+      <para id="id16353143">Memorandum</para>
+      <list id="id15338897" list-type="bulleted">
+        <item>The inside diameter is the diameter of the cylinder on the inside. So that one can determine how much contents it can take, for instance.</item>
+        <item>The outside diameter is the diameter of the cylinder on the outside. So that one can determine how much space it will occupy.</item>
+        <item>Circumference of the can's curved surface: Take thread and wrap it around the can. Place the thread on a ruler and measure its length.</item>
+        <item>The circumference is 20,5 cm.</item>
+        <item>Nail: 5 cm (estimate); 4 cm (reading)</item>
+        <item>Measuring-cylinder: 6 cm (estimate); 5,5 cm (reading)</item>
+      </list>
+    </section>
+    <section id="id16196870">
+      <title>LEANER SECTION</title>
+      <para id="para-id16196870">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17280336">
+      <title>Content</title>
+      <section id="id12072049">
+        <title>Activity: To measure the diameter and circumference of a round object [LO 1.2]</title>
+        <para id="id3547163"><figure id="id3534135"><media id="id3534135_media" alt=""><image mime-type="image/png" src="../../media/graphics1-045e.png" id="id3534135__onlineimage" height="293" width="125"/></media></figure>Consult the following illustration to define the terms “internal diameter” and “external diameter”: </para>
+        <para id="id9548619">The curved surface of the cylinder is known as the convex surface of the cylinder.</para>
+        <list id="id18261713" list-type="bulleted">
+          <item>Think of a strategy for measuring the circumference of the convex surface of a cylinder. Use a 340 ml cold drink can as your example.</item>
+        </list>
+        <para id="id16156424">This is how we measure the convex surface of the tin:</para>
+        <para id="id4077708">We first ...</para>
+        <para id="id4077712">_____________________________________________________________________</para>
+        <para id="id9410093">_____________________________________________________________________</para>
+        <para id="id11037221">_____________________________________________________________________</para>
+        <para id="id13695641">_____________________________________________________________________</para>
+        <para id="id13695645">_____________________________________________________________________</para>
+        <para id="id6729980">_____________________________________________________________________</para>
+        <para id="id6729985">_____________________________________________________________________</para>
+        <para id="id6608586">_____________________________________________________________________</para>
+        <para id="id13836824">_____________________________________________________________________</para>
+        <list id="id13709179" list-type="bulleted">
+          <item>Measure the diameters of the following objects:</item>
+        </list>
+        <table id="id14614710" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Object</entry>
+                <entry>Estimation</entry>
+                <entry>Reading</entry>
+              </row>
+              <row>
+                <entry>Nail (external diameter)</entry>
+                <entry>_________________</entry>
+                <entry>_________________</entry>
+              </row>
+              <row>
+                <entry>Measuring cylinder (internal diameter)</entry>
+                <entry>_________________</entry>
+                <entry>_________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id13719110">
+      <title>Assessment</title>
+      <para id="id13999786"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id11533027"><emphasis>Assessment Standard 1.2:</emphasis> We know this when the learner conducts investigations and collects data: organises and uses apparatus/equipment or sources to gain and record information.</para>
+    </section>
+  </content>
+</document>

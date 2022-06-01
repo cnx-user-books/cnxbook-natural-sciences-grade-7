@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>General Science</title>
+  <metadata>
+  <md:content-id>m19896</md:content-id><md:title>General Science</md:title>
+  <md:abstract>To compare the millipede and the centipede</md:abstract>
+  <md:uuid>13ddee4f-b971-445f-91ba-7186399c8ffa</md:uuid>
+</metadata>
+
+<content>
+    <section id="id5918090">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id5918090">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4145124">
+      <title>Life and Way of Living</title>
+      <para id="para-id4145124">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4926955">
+      <title/>
+      <para id="para-id4926955">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7225326">
+      <title>EDUCATOR SECTION</title>
+      <section id="id13071508">
+        <title>Memorandum</title>
+        <para id="id21591945">No questions or answers.</para>
+      </section>
+    </section>
+    <section id="id9712561">
+      <title>Leaner Section</title>
+      <section id="id4422810">
+        <title>Content</title>
+        <para id="para-id4422810">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id22652612">
+        <title>ACTIVITY 11: To compare the millipede and the centipede [LO 2.1]</title>
+        <para id="para-id22652612">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id3310062">
+        <title>MILLIPEDES AND CENTIPEDES</title>
+        <para id="id17219137">We will not study examples of these animals in great detail. However, it is important to remember that they play an important role in the ecosystem. Let us compare them:</para>
+        <table id="id19755898" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry>
+                  <media id="id9442086" alt="">
+                    <image mime-type="image/png" src="../../media/graphics1-d977.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>Millipede</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id19768022" alt="">
+                    <image mime-type="image/png" src="../../media/graphics2-4f89.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>Centipede</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id9842880" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Millipedes</entry>
+                <entry>Centipedes</entry>
+              </row>
+              <row>
+                <entry>Build</entry>
+                <entry>Many segments, round</entry>
+                <entry>Many segments, flat</entry>
+              </row>
+              <row>
+                <entry>Number of legs</entry>
+                <entry>4 on each segment</entry>
+                <entry>2 on each segment</entry>
+              </row>
+              <row>
+                <entry>Food</entry>
+                <entry>Rotting plant material</entry>
+                <entry>Insects, earthworms and snails</entry>
+              </row>
+              <row>
+                <entry>Where they live</entry>
+                <entry>Amongst dead plant material on the ground</entry>
+                <entry>Under old tree stumps and amongst dead leaves on the ground</entry>
+              </row>
+              <row>
+                <entry>When they are active</entry>
+                <entry>In the day</entry>
+                <entry>At night</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id19785499">
+      <title/>
+      <para id="para-id19785499">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21185201">
+      <title/>
+      <para id="para-id21185201">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22274608">
+      <title/>
+      <para id="para-id22274608">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17492520">
+      <title/>
+      <para id="para-id17492520">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18698908">
+      <title>ASSESSMENT</title>
+      <para id="id19947023"/>
+      <para id="id16016842"><emphasis>Learning Outcome 2:</emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id21690150"><emphasis>Assessment Standard 2.1:</emphasis> We know this when the learner recalls meaningful information (at least definitions and complex facts).</para>
+    </section>
+  </content>
+</document>

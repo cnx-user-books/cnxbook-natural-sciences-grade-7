@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To explain the three basic forms of matter in terms of particle theory</title>
+  <metadata>
+  <md:content-id>m20524</md:content-id><md:title>To explain the three basic forms of matter in terms of particle theory</md:title>
+  <md:abstract/>
+  <md:uuid>724f24ce-bf52-441f-97de-895d83e4f052</md:uuid>
+</metadata>
+
+<content>
+    <section id="id18283892">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id18283892">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18198027">
+      <title>Matter, measuring and reactions</title>
+      <para id="para-id18198027">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18196811">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id18196811">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18284274">
+      <title>Memorandum</title>
+      <para id="id16815360">Assignment 3:</para>
+      <para id="id16815364">Basic forms of matter</para>
+      <table id="id16815367" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>SOLIDS</entry>
+              <entry>LIQUIDS</entry>
+              <entry>GASSES</entry>
+            </row>
+            <row>
+              <entry>Iron</entry>
+              <entry>Water</entry>
+              <entry>Carbon dioxide</entry>
+            </row>
+            <row>
+              <entry>Wood</entry>
+              <entry>Tea</entry>
+              <entry>Oxygen</entry>
+            </row>
+            <row>
+              <entry>Plastic</entry>
+              <entry>Wine</entry>
+              <entry>Nitrogen</entry>
+            </row>
+            <row>
+              <entry>Steel</entry>
+              <entry>Milk</entry>
+              <entry>Carbon monoxide</entry>
+            </row>
+            <row>
+              <entry>Copper</entry>
+              <entry>Soft drink</entry>
+              <entry>Sodium</entry>
+            </row>
+            <row>
+              <entry>Paper</entry>
+              <entry>Brandy</entry>
+              <entry>Iron oxide</entry>
+            </row>
+            <row>
+              <entry>Coal</entry>
+              <entry>Petrol</entry>
+              <entry>Ammonia</entry>
+            </row>
+            <row>
+              <entry>Gold</entry>
+              <entry>Oil</entry>
+              <entry>Methane</entry>
+            </row>
+            <row>
+              <entry>Cotton</entry>
+              <entry>Handy Andy</entry>
+              <entry>Helium</entry>
+            </row>
+            <row>
+              <entry>Wool</entry>
+              <entry>Honey</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Cheese</entry>
+              <entry>Yoghurt</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id18271366">
+      <title>LEANER SECTION</title>
+      <para id="para-id18271366">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18271372">
+      <title>Content</title>
+      <section id="id18271378">
+        <title>Activity: To explain the three basic forms of matter in terms of particle theory [LO 2.2]</title>
+        <list id="id18271387" list-type="bulleted">
+          <item>SOLID SUBSTANCES</item>
+          <item>LIQUIDS</item>
+          <item>GASES</item>
+        </list>
+        <para id="id18199659">The particles in a solid substance remain in place and move very little. They vibrate in a fixed position. This is why solids have a fixed shape and volume. The particles form a regular pattern.</para>
+        <figure id="id18199672">
+          <media id="id18199672_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-89da.png" id="id18199672__onlineimage" height="227" width="301"/>
+          </media>
+        </figure>
+        <para id="id18199688">In liquids, the particles are able to move freely, but they cannot go far from one another. They do not have a fixed pattern and can therefore take the form of the container in which they are. As the particles are unable to move far from one another, the volume cannot really change.</para>
+        <figure id="id18199704">
+          <media id="id18199704_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-fd19.png" id="id18199704__onlineimage" height="233" width="300"/>
+          </media>
+        </figure>
+        <para id="id18222035">The particles of a gas can more or less move to any place. These particles are also much further apart than the particles in a liquid or a solid substance.</para>
+        <figure id="id18222046">
+          <media id="id18222046_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-fd19.png" id="id18222046__onlineimage" height="233" width="300"/>
+          </media>
+        </figure>
+        <para id="id18222062">ASSIGNMENT 3</para>
+        <para id="id18222066">See whether you are able to complete the following columns by listing examples of substances that represent the three forms of matter.</para>
+        <table id="id18222072" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Solid substances</entry>
+                <entry>Liquid substances</entry>
+                <entry>Gases</entry>
+              </row>
+              <row>
+                <entry>Iron</entry>
+                <entry>Water</entry>
+                <entry>Carbon dioxide</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+              <row>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+                <entry>_______________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id19093509"/>
+      </section>
+    </section>
+    <section id="id19093516">
+      <title>Assessment</title>
+      <para id="id19093521"><emphasis>Learning Outcome 2: </emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id19093533"><emphasis>Assessment Standard 2.2:</emphasis> We know this when the learner categorises information.</para>
+    </section>
+  </content>
+</document>

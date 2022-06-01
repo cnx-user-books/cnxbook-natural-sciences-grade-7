@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Natural Science</title>
+  <metadata>
+  <md:content-id>m19904</md:content-id><md:title>Natural Science</md:title>
+  <md:abstract>To identify the sources of energy of common items</md:abstract>
+  <md:uuid>7eb67720-2635-443e-a629-5801a7122ddd</md:uuid>
+</metadata>
+
+<content>
+    <para id="id12519049"/>
+    <section id="id6320423">
+      <title>NATURAL SCIENCES</title>
+      <para id="id12558935">Energy transfers and forces</para>
+      <para id="id12715061"/>
+    </section>
+    <section id="id12521163">
+      <title>EDUCATOR SECTION</title>
+      <section id="id12741652">
+        <title>Memorandum</title>
+        <para id="id12741732">3. Flashlight of camera - battery</para>
+        <para id="id12741587">4. Paraffin heater - paraffin</para>
+        <para id="id12740966">5. Gas heater - gas</para>
+        <para id="id12664558">6. Hair drier - electricity</para>
+        <para id="id12472086">7. Windmill - wind etc.</para>
+        <para id="id12722149">Leaner Section</para>
+      </section>
+      <section id="id8333286">
+        <title>Content</title>
+        <para id="para-id8333286">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id12646119">
+        <title>ACTIVITY 3: To identify the sources of energy of common items [LO 1.2] </title>
+        <para id="id12542070">Think of some of the items in your homes and of any other things that are able to perform some kind of movement. Then do the following activity with a partner by trying to complete the list:</para>
+        <table id="id3694998" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>ITEM</entry>
+                <entry>SOURCE OF ENERGY</entry>
+              </row>
+              <row>
+                <entry>car</entry>
+                <entry>petrol/diesel</entry>
+              </row>
+              <row>
+                <entry>train</entry>
+                <entry>electricity/coal</entry>
+              </row>
+              <row>
+                <entry>_______________________________</entry>
+                <entry>_______________________________</entry>
+              </row>
+              <row>
+                <entry>_______________________________</entry>
+                <entry>_______________________________</entry>
+              </row>
+              <row>
+                <entry>_______________________________</entry>
+                <entry>_______________________________</entry>
+              </row>
+              <row>
+                <entry>_______________________________</entry>
+                <entry>_______________________________</entry>
+              </row>
+              <row>
+                <entry>_______________________________</entry>
+                <entry>_______________________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id12702062">3. Fuels</para>
+        <para id="id12702070">The plants and animals that existed millions of years ago absorbed the sun’s energy while they were growing. They were buried under the layers of rock that eventually formed over them. Then their remains were gradually changed into oil, coal and various gases by means of chemical reactions. These fuels are known as <emphasis effect="bold">fossil fuels</emphasis>. Oil, coal and gases are <emphasis effect="bold">non-renewable</emphasis>, i.e. they cannot be replaced. In addition, they have to be mined from underground reserves and burning them damages our environment and our health. One non-renewable energy source that is not derived from fossils, is nuclear power. Some metals, like uranium, release enormous amounts of energy when they undergo nuclear fission. Nuclear power is utilised for manufacturing electricity, e.g. at the nuclear power station at Koeberg where electricity is generated for the use of the inhabitants of Cape Town. A small amount of nuclear power produces large amounts of nuclear fuel and causes very little environmental pollution. At present also large amounts of nuclear fuel are available. Nuclear power stations have to be built near the sea, because they need great amounts of water for cooling. This means that the energy sometimes has to be transported over long distances. Radioactive radiation can lead to health risks and it takes hundreds of years for radioactive nuclear waste to lose its radioactivity. Such waste therefore has to be buried underground in special containers for many years. Nuclear power, however, does not cause acid rain or contribute to the greenhouse effect, which is what fossil fuels do.</para>
+        <para id="id12675309">Because these non-renewable fuels are not expected to be available in the future, we need to conserve energy and begin to make use of alternative energy sources like the sun, water, wind, waves, tides and bio-gases for power. Great progress has already been made with the development of these forms of energy.</para>
+      </section>
+    </section>
+    <section id="id12675915">
+      <title>Assessment</title>
+      <para id="id6320163"><emphasis>Learning Outcome 1:</emphasis>The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id12700231"><emphasis>Assessment Standard 1.2:</emphasis> We know this when the learner conducts investigations and collects data: organises and uses apparatus/equipment or sources to gain and record information.</para>
+      <para id="id12693835"/>
+    </section>
+  </content>
+</document>

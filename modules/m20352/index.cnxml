@@ -1,0 +1,189 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To build your own dynamometer</title>
+  <metadata>
+  <md:content-id>m20352</md:content-id><md:title>To build your own dynamometer</md:title>
+  <md:abstract/>
+  <md:uuid>56585acd-8810-4b53-875e-bcd429633617</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8108462">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id8108462">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7234142">
+      <title>Energy transfers and forces</title>
+      <para id="para-id7234142">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6822955">
+      <title>A. Forces</title>
+      <para id="para-id6822955">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6807955">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id6807955">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7088551">
+      <title>Memorandum</title>
+      <para id="id7316580">Groups can assess each other’s dynamometers by determining how effectively they work. Compile a matrix in which the criteria that are to be assessed, as well as the criteria describers, are given. Allow the learners to join you in deciding about this, so that they will know exactly how the dynamometer will be assessed before the start of the project.</para>
+      <para id="id7296841">The weights of objects of which the weight will be determined will depend on the size of the objects that are used.</para>
+      <para id="id7295890">Conclusion</para>
+      <para id="id6648696">The greater the mass of the object, the greater the earth’s gravitational force upon it.</para>
+      <para id="id6220754">Let us test our knowledge:</para>
+      <para id="id6562344">(a) A force is exerted on an object, for example by pulling or pushing it.</para>
+      <para id="id7217515">(b) Newton (N).</para>
+      <para id="id6944767">(c) Dynamometer/spring-balance.</para>
+      <para id="id4499492">(d) E.g. 60 kg _______mass; then your weight is ± 600N seeing that 1 kg has the weight of ± 10N.</para>
+      <para id="id6945473">(e) Weight is the gravitational force of the earth on an object.</para>
+      <para id="id6828253">(f) Electrostatic force</para>
+      <para id="id6561319">Gravitational force</para>
+      <para id="id7356903">Magnetic force</para>
+      <para id="id7321382">(g) Tensile force</para>
+      <para id="id7322328">Momentum (thrust)</para>
+      <para id="id7247233">Rotational force/torque (torsion)</para>
+      <para id="id6928713">(h) A force can make an object rotate.</para>
+      <para id="id6943206">A force can halt a moving object.</para>
+      <para id="id5091471">A force can change the speed of an object.</para>
+      <para id="id7246913">A force can change the shape of a moving object.</para>
+      <para id="id7734650">A force can change the direction of a moving object.</para>
+      <para id="id7205643">(i) c</para>
+      <para id="id7211033">(j) Rotation</para>
+    </section>
+    <section id="id7213806">
+      <title>LEANER SECTION</title>
+      <para id="para-id7213806">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7816091">
+      <title>Content</title>
+      <section id="id7095679">
+        <title>ACTIVITY: To build your own dynamometer [LO 2.4] </title>
+        <para id="id7052084">Build your own dynamometer</para>
+        <para id="id7052088">Requirements:</para>
+        <list id="id7315042" list-type="bulleted">
+          <item>Wooden plank (30 mm x 300 mm)</item>
+          <item>Screw (± 25 cm in length)</item>
+          <item>Elastic band</item>
+          <item>Nail</item>
+          <item>Tin can lid</item>
+          <item>String</item>
+          <item>White paper</item>
+          <item>Retort stand and clamp</item>
+        </list>
+        <para id="id7186028">Step 1: Glue the white paper to the wood.</para>
+        <para id="id7887422">Step 2: Screw the screw in at the top of the plank.</para>
+        <para id="id8115723">Step 3: Suspend the elastic band from the screw and clamp the plank in the stand.</para>
+        <para id="id7247315">Step 4: Use the hammer and nail to pierce four holes at equal distances along the edge of the tin lid.</para>
+        <para id="id7739616">Step 5: Attach four pieces of string (each ± 150 mm long) to the lid, by tying them through the holes. Tie the four loose ends of string to another length of string (± 300 mm long). Then attach this longer length of string to the elastic band.</para>
+        <para id="id7184103">Step 6: Make a mark on the paper immediately below the elastic band. This is the O position.</para>
+        <para id="id7185219">Step 7:  Now place the mass pieces (to a total of 102 grams) on the lid. Mark the new position of the elastic band as “1”.</para>
+        <para id="id4441488">Step 8: Repeat step 7, increasing the mass of the mass pieces as you proceed, until you have marked 5 graduations on the paper. Avoid putting too much strain on the elastic band – if it is stretched too far, it might snap.</para>
+        <para id="id7733655">You have now built a simple dynamometer calibrated in Newton. 1 N is equal to ± 102 g. One kilogram is therefore equal to approximately 10 N.</para>
+        <para id="id6941325">Use this dynamometer or another spring balance to determine the weight of the following objects:</para>
+        <table id="id6923745" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>OBJECT</entry>
+                <entry>WEIGHT IN N</entry>
+              </row>
+              <row>
+                <entry>one pen</entry>
+                <entry>______________________N</entry>
+              </row>
+              <row>
+                <entry>five such pens</entry>
+                <entry>______________________N</entry>
+              </row>
+              <row>
+                <entry>your shoe</entry>
+                <entry>______________________N</entry>
+              </row>
+              <row>
+                <entry>both your shoes</entry>
+                <entry>______________________N</entry>
+              </row>
+              <row>
+                <entry>an object of your choice</entry>
+                <entry>______________________N</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7892648">Complete:</para>
+        <para id="id8111857">Deduction:</para>
+        <para id="id8111860">The greater the___________________________________________, the greater the </para>
+        <para id="id7895042">______________________________________________. that the earth exerts on it.</para>
+        <para id="id8102951">4. Let’s see what you know. Do turn back to the earlier work in the module if you are unsure of yourself. This means that you may refer to the module as a source of information.</para>
+        <para id="id6827464">(a) Write one sentence to explain what we mean when we speak of force.</para>
+        <para id="id7810375">_____________________________________________________________________</para>
+        <para id="id7738798">(b) What is the unit that we use for measuring weight? ________________________</para>
+        <para id="id7181521">(c) Which instrument is used to measure the weight of an object?</para>
+        <para id="id6980455">_____________________________________________________________________</para>
+        <para id="id8067789">(d) What is your mass? _________________________________________________</para>
+        <para id="id7321139">Consider your body as an object. What is the weight of your body in </para>
+        <para id="id8067463">Newton?______________________________________________________________</para>
+        <para id="id8062671">(e) What is weight?  </para>
+        <para id="id8115588">______________________________________________________________</para>
+        <para id="id8103725">______________________________________________________________</para>
+        <para id="id7991875">______________________________________________________________</para>
+        <para id="id7094717">______________________________________________________________</para>
+        <para id="id7988654">(f) Name three forces that are exerted around us in nature.</para>
+        <para id="id7319429">______________________________________________________________</para>
+        <para id="id7199870">______________________________________________________________</para>
+        <para id="id6816505">______________________________________________________________</para>
+        <para id="id6929580">_____________________________________________________________________</para>
+        <para id="id7188049">(g) Name two kinds of force that can be exerted. </para>
+        <para id="id6560105">______________________________________________________________</para>
+        <para id="id3082062">______________________________________________________________</para>
+        <para id="id7892403">______________________________________________________________</para>
+        <para id="id7213922">______________________________________________________________</para>
+        <para id="id7224759">(h) Name five effects of forces on objects.</para>
+        <para id="id8071015">______________________________________________________________</para>
+        <para id="id8103157">______________________________________________________________</para>
+        <para id="id7199222">______________________________________________________________</para>
+        <para id="id6929509">______________________________________________________________</para>
+        <para id="id7895100">_____________________________________________________________________</para>
+        <para id="id7809411">(i) Underline the example that illustrates the force of gravity.</para>
+        <para id="id6560853">(i) Magnets that repel one another.</para>
+        <para id="id6811700">(ii) A person doing a long jump.</para>
+        <para id="id6935148">(iii) A spoon falling off the table and landing on the floor.</para>
+        <para id="id7326950">(iv) Two people running into one another.</para>
+        <para id="id3184841">(j) When forces cause an object to move in a circle, we say that they cause </para>
+        <para id="id7739600">a ________________________________________________________ of the object.</para>
+        <para id="id7089721">Summative (10)</para>
+        <para id="id5729506">5. A journey through space</para>
+        <para id="id7054310">The most difficult part of space travel is escaping the Earth’s gravity. Space travellers need rockets to travel to outer space. A rocket is a powerful engine that is strong enough to overcome gravity and to guide the spacecraft into space.</para>
+        <figure id="id7032979">
+          <media id="id7032979_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-54ff.png" id="id7032979__onlineimage" height="269" width="490"/>
+          </media>
+        </figure>
+        <para id="id7326651"/>
+        <para id="id8068059">On 25 April 2002, Mark Shuttleworth became the first South African and African to undertake space travel.</para>
+        <figure id="id7810106">
+          <media id="id7810106_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-5b2a.png" id="id7810106__onlineimage" height="388" width="360"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id5485670">
+      <title>Assessment</title>
+      <para id="id7081644"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id6935191"><emphasis><emphasis effect="italics">Assessment Standard 2.4:</emphasis></emphasis> We know this when the learner application of knowledge: applies knowledge appropriately by connecting the learnt concept to a variation of the known situation:</para>
+      <para id="id7916238">2.4.1: identifies the forms of energy that are transferred.</para>
+    </section>
+  </content>
+</document>
